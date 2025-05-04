@@ -1,0 +1,3 @@
+getgenv().MainKey = "nil"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuvvNarc/ProjectCelestial/refs/heads/main/Loader.lua"))() 
+--// MM2 Script
